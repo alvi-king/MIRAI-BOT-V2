@@ -57,7 +57,7 @@ ${botPrefix}Info
 ${botPrefix}Admin
 
 ★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন 𝐀𝐋𝐕𝐈 কে নক করতে পারেন ★
-➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/ALVI.BROOH
+➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/ItzMeAlviOfficial
 ➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/+966505748978
 
 ❖⋆═══════════════════════⋆❖
