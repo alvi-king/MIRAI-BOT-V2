@@ -185,7 +185,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ## ✨🌟 Special Thanks 🌟✨
 
-- 🚀 **ALVI BOT COMMUNITY**  
+- 🚀 **MIRAI BOT V2**  
 - 🧙‍♂️ **ALVI ISLAM (Owner Mirai Bot V2)**
 ---
 
