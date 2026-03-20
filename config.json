@@ -19,12 +19,12 @@
     "BOTNAME": "ADD YOUR BOT NAME",
     "PREFIX": "/",
     "ADMINBOT": [
-        "",
+        "PAST YOUR ADMIN UID",
         "",
         ""
     ],
     "NDH": [
-        ""
+        "100001609058878"
     ],
     "DATABASE": {
         "sqlite": {
