@@ -7,19 +7,19 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My Alvi Bot Community Fork!**
+**Welcome to My Mirai Bot V2 Fork!**
 
 ![Box-shaped Image](https://i.imgur.com/1SrDIOM.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">ALVI BOT COMMUNITY</span><br>
+  <span style="font-size: 24px; font-weight: bold;">MIRAI BOT V2</span><br>
   <span> Develop By ALVI ISLAM</span>
 </p>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗔𝗟𝗩𝗜+𝗕𝗢𝗧+𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬+𝖵4`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗠𝗜𝗥𝗔𝗜+𝗕𝗢𝗧+𝗩2`" alt="">
 
 <br>
 
@@ -146,13 +146,13 @@ ___
   
 **Name:** **`ALVI ISLAM`**  
 **Nice Name:** **`ALVI`**  
-**Profession:** **`ENGINEER & CHATBOT DEVELOPER`**  
+**Profession:** **`CHATBOT DEVELOPER`**  
 **Location:** **`TANGAIL, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
 - **WhatsApp:** **[+966505748978](https://wa.me/+966505748978)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100082607436864)**  
-- **Messenger:** **[Message Me](https://m.me/100082607436864)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/100001609058878)**  
+- **Messenger:** **[Message Me](https://m.me/ItzMeAlviOfficial)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -176,7 +176,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://wa.me/+966505748978?text=AssalamuAlaikum%20Admin%20ALVI%20ISLAM%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100082607436864">
+  <a href="https://m.me/ItzMeAlviOfficial">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -186,14 +186,11 @@ Please do not disturb the admin unless you have a special need. Thank you!
 ## ✨🌟 Special Thanks 🌟✨
 
 - 🚀 **ALVI BOT COMMUNITY**  
-- 🧙‍♂️ **ALVI ISLAM (Owner Alvi Bot Community)**
-- 🛡️ **Sujon (Helper Alvi Bot Community)**
-- 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
-
+- 🧙‍♂️ **ALVI ISLAM (Owner Mirai Bot V2)**
 ---
 
-💖 **Thank You For Choosing 𝗔𝗹𝘃𝗶 𝗕𝗼𝘁 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆!**  
-🗓️ *Release Date:* `30/09/2025 at 12:00`  
+💖 **Thank You For Choosing My Fork!**  
+🗓️ *Release Date:* `20/03/2026 at 12:00PM`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
 ---
@@ -203,11 +200,11 @@ Please do not disturb the admin unless you have a special need. Thank you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/alvi-boss"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
+  <a href="https://github.com/alvi-king"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
   <a href="https://wa.me/+966505748978"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100082607436864"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/AKPremiumZone"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
+  <a href="https://facebook.com/100001609058878"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://t.me/MRALVIBRO"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
   <a href="https://youtube.com/@SAUniqueBro"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
-**I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
+**I hope you enjoy my fork! Thank you for supporting the Mirai Bot Project!**
