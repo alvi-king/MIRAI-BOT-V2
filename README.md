@@ -1,6 +1,6 @@
 ---------
 
-### —͟͟͞͞𝐀𝐋𝐕𝐈 𝐁𝐎𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘 🌺
+### —͟͟͞͞𝐌𝐈𝐑𝐀𝐈 𝐁𝐎𝐓 𝐕2 🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
